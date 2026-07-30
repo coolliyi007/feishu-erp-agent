@@ -1,0 +1,11 @@
+.env
+*.json
+!package.json
+__pycache__/
+*.pyc
+node_modules/
+logs/
+data/
+chroma_db/
+*.log
+feishu_user_token.json
